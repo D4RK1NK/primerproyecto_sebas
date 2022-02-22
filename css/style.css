@@ -15,11 +15,11 @@
 
 /* ==== CSS VARIABLES ==== */
 :root {
-	--primary-color: #ea3f33;
-	--link-color: #4b7edd;
-	--btn-hover-color: #db9d16;
-	--lg-heading: #b039b4;
-	--text-content: #20e60e;
+	--primary-color: #e21f11;
+	--link-color: #185cda;
+	--btn-hover-color: #13e9cc;
+	--lg-heading: #000000;
+	--text-content: #27eb15;
 	--fixed-header-height: 4.5rem;
 }
 
